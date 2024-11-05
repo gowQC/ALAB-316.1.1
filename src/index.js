@@ -1,5 +1,3 @@
-import "./styles.css";
-
 /* PART 1 */
 
 // STEP 1: Select and cache the <main> element in a variable named mainEl.
